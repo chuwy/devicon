@@ -3170,7 +3170,7 @@
         "name": "framermotion",
         "altnames": [
             "framer-motion",
-            "framer"            
+            "framer"
         ],
         "tags": [
             "library",
@@ -9904,6 +9904,28 @@
             ]
         },
         "color": "#452e7f",
+        "aliases": []
+    },
+    {
+        "name": "unison",
+        "altnames": [
+            "unison-lang",
+            "unisonlang"
+        ],
+        "tags": [
+            "language",
+            "functional",
+            "open-source"
+        ],
+        "versions": {
+            "svg": [
+                "plain"
+            ],
+            "font": [
+                "plain"
+            ]
+        },
+        "color": "#000000",
         "aliases": []
     },
     {
